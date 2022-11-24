@@ -1,3 +1,6 @@
+/*
+Doesn't currently work because Discord API is annoying and tries to kill itself
+*/
 const {
   SlashCommandBuilder,
   SelectMenuBuilder,
