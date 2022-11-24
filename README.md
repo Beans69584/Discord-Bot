@@ -1,2 +1,7 @@
 # Discord Bot
- My Discord Bot I guess
+
+To deploy you will need node.js and you will need to run this command
+
+```cmd
+npm install discord.js dotenv
+```
